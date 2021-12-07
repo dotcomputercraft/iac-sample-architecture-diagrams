@@ -1,4 +1,4 @@
-# trace-iac-sample-architecture-diagrams
+# iac-sample-architecture-diagrams
 
 ### Create Beautiful Architecture Diagrams with Python
 
